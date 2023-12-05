@@ -53,3 +53,7 @@ html,body {
     font-size: 22px;
     font-weight: 600;
 }
+
+#nav h2:nth-last-child(1){
+    width: 10%;
+}
